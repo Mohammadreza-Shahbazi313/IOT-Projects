@@ -96,7 +96,7 @@ IoT-Projects
 ### Arduino RFID Based Door Lock
 
 <p align="center">
-  <img src="Arduino%20RFID%20Based%20Door%20Lock/Arduino%20RFID%20Door%20Security.png" alt="Arduino RFID Based Door Lock" width="900">
+  <img src="Arduino%20RFID%20Based%20Door%20Lock/Arduino_RFID_Door_Secuirity.png" alt="Arduino RFID Based Door Lock" width="900">
 </p>
 
 ### UNO LM35 Sensor LCD Motor
