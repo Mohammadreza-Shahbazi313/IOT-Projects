@@ -216,8 +216,10 @@ Based on the temperature value:
 This repository was created by:
 
 * [Mohammadreza Shahbazi](https://github.com/Mohammadreza-Shahbazi313)
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadreza-shahbazi-313sh/)
+  
 * [Abolfazl Ghasemi](https://github.com/abolfazlghasemi83)
-
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abolfazl-ghasemi55/)
 ---
 
 ## License
